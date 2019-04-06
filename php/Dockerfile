@@ -1,5 +1,5 @@
 # Set the base image to centos6.8
-FROM centos:6.8
+FROM centos:7
 
 # File Author / Maintainer
 MAINTAINER zhengqilin zhengqilin@cmcm.com
